@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51dd0756-7660-4326-9565-4ba2335111d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Curs4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercitii_singuri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercitiu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercitiu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercitiu3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_exercise_0.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_exercise_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/01-hello-world/hello-world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/02-data-types/data-types-exercise-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/02-data-types/data-types-exercise-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/02-data-types/data-types-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/03-variables-and-operators/operators-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/03-variables-and-operators/operators-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/03-variables-and-operators/variables-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/03-variables-and-operators/variables-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/04-utf-8-compliance/utf-8-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/04-utf-8-compliance/utf-8-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/05-string-formatting-and-printing/formatting-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/05-string-formatting-and-printing/formatting-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/05-string-formatting-and-printing/printing-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/05-string-formatting-and-printing/printing-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/06-basic-string-operations/strings-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/06-basic-string-operations/strings-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/dictionary-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/dictionary-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/list-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/list-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/list-slicing-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/list-slicing-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/set-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/tuple-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/07-collections/tuple-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/08-user-input/command-line-parameters-exercise-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/08-user-input/command-line-parameters-exercise-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/08-user-input/command-line-parameters-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/08-user-input/input-exercise-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/08-user-input/input-exercise-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/08-user-input/input-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/09-flow-control/for-loop-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/09-flow-control/for-loop-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/09-flow-control/if-statement-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/09-flow-control/if-statement-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/09-flow-control/while-loop-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/09-flow-control/while-loop-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/10-functions/functions-exercise-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/10-functions/functions-exercise-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/10-functions/functions-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/11-oop/oop-exercise-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/11-oop/oop-exercise-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/11-oop/oop-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/11-oop/oop-mangled-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/11-oop/oop-private-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/11-oop/oop-properties-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/11-oop/oop-value-and-reference-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/12-file-operations/data/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/12-file-operations/data/exercise.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/12-file-operations/file-operations-exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/12-file-operations/file-operations-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-fundamentals-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curs3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Curs3/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1a42LhEX8Km9tZ3ZtH4WoYaPBxC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mihai\Documents\GitHub\Python-Fundamentals\Curs4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.exercitiu">
+    <configuration name="exercitiu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curs4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercitiu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercitiu2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curs4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercitiu2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercitiu3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curs4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercitiu3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oop_exercise_0.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curs4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop_exercise_0.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="radu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curs4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/radu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercitiu" />
+        <item itemvalue="Python.exercitiu3" />
+        <item itemvalue="Python.exercitiu2" />
+        <item itemvalue="Python.radu" />
+        <item itemvalue="Python.oop_exercise_0.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51dd0756-7660-4326-9565-4ba2335111d7" name="Default Changelist" comment="" />
+      <created>1585980490714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585980490714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Python" timestamp="1586002218786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Python/0.0.1366.728@0.0.1366.728" timestamp="1586002218786" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585981904321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585981904321" />
+    <state width="1345" height="286" key="GridCell.Tab.0.bottom" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state width="1345" height="286" key="GridCell.Tab.0.center" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state width="1345" height="286" key="GridCell.Tab.0.left" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state width="1345" height="286" key="GridCell.Tab.0.right" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state width="1345" height="286" key="GridCell.Tab.1.bottom" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state width="1345" height="286" key="GridCell.Tab.1.center" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state width="1345" height="286" key="GridCell.Tab.1.left" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state width="1345" height="286" key="GridCell.Tab.1.right" timestamp="1586008276901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="286" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586008276901" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586000116674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586000116674" />
+  </component>
+</project>
