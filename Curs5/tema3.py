@@ -12,4 +12,4 @@ with open('data/carte_telefon.txt', 'a') as carte_telefon:
    carte_telefon.write('nume6 01532')
    carte_telefon.write('nume6 01432')
 
-with open('data/cautareCuvinte.txt') as fisier_numer:
+# with open('data/cautareCuvinte.txt') as fisier_numer:
